@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.fucct.gpthelper.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.fucct.gpthelper.MyBundle
 
 class MyApplicationService {
 
